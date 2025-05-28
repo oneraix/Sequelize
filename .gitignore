@@ -1,0 +1,15 @@
+# Node.js
+node_modules/
+
+
+# dotenv files (chứa thông tin nhạy cảm như API keys)
+.env
+.env.test
+.env.*.local
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Optional npm cache directory
+.npm
